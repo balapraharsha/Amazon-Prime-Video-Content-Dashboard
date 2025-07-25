@@ -92,7 +92,7 @@ The dataset includes metadata of Amazon Prime content such as:
 📁 Amazon-Prime-Dashboard
 ├── Prime_Dashboard.pbix # Power BI project file
 ├── Prime_Dashboard.pdf # PDF export of dashboard
-├── sample_data.csv # (Optional) Cleaned dataset
+├── sample_data.csv # dataset
 └── README.md # Project overview
 
 ```
