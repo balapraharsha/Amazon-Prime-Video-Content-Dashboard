@@ -77,12 +77,6 @@ The dataset includes metadata of Amazon Prime content such as:
 
 ---
 
-## 📸 Dashboard Preview
- 
-> ![Dashboard Preview](link-to-screenshot.png)
-
----
-
 ## 👨‍💻 Developed By
 
 **Bala Praharsha .M**  
