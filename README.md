@@ -59,15 +59,6 @@ The dataset includes metadata of Amazon Prime content such as:
 
 ---
 
-## 🧠 Recommendations
-
-- Expand into under-represented genres like **Sci-Fi**, **Kids**, and **Documentaries**
-- Add more **TV shows** to balance the catalog
-- Localize content by investing in creators from **Europe**, **LATAM**, and **Asia-Pacific**
-- Diversify rating-wise content by targeting **family audiences**
-
----
-
 ## 🛠️ Tools Used
 
 - **Power BI Desktop**
